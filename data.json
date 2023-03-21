@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "name": "Mehedi",
+        "contact": "017125556669",
+        "address": "Mirpur",
+        "gender": "male",
+        "photoUrl": "http"
+
+    },
+    {
+        "id": 2,
+        "name": "Hasan",
+        "contact": "017125556669",
+        "address": "Pallabi",
+        "gender": "male",
+        "photoUrl": "http"
+
+    },
+    {
+        "id": 3,
+        "name": "Srabon",
+        "contact": "0125698",
+        "address": "Farmgate",
+        "gender": "male",
+        "photoUrl": "http"
+
+    },
+    {
+        "id": 4,
+        "name": "Niloy",
+        "contact": "012569874",
+        "address": "Gulshan",
+        "gender": "male",
+        "photoUrl": "http"
+
+    },
+    {
+        "id": 5,
+        "name": "Tajnin",
+        "contact": "015457485",
+        "address": "Dinajpur",
+        "gender": "female",
+        "photoUrl": "http"
+
+    },
+    {
+        "id": 6,
+        "name": "Hoque",
+        "contact": "015245646",
+        "address": "Dhaka",
+        "gender": "male",
+        "photoUrl": "http"
+
+    }
+]
